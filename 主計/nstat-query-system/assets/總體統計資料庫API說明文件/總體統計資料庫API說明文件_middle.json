@@ -1,0 +1,4290 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        163,
+                        82,
+                        430,
+                        112
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                82,
+                                430,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        82,
+                                        430,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "總體統計資料庫 API"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        433,
+                        142,
+                        503,
+                        154
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                142,
+                                503,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        142,
+                                        503,
+                                        154
+                                    ],
+                                    "type": "text",
+                                    "content": "112年3月7日"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        99,
+                        177,
+                        339,
+                        315
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                99,
+                                177,
+                                157,
+                                193
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        177,
+                                        157,
+                                        193
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                177,
+                                                157,
+                                                193
+                                            ],
+                                            "type": "text",
+                                            "content": "一、簡介"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                201,
+                                214,
+                                218
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        201,
+                                        214,
+                                        218
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                201,
+                                                214,
+                                                218
+                                            ],
+                                            "type": "text",
+                                            "content": "二、查詢語法結構"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                100,
+                                226,
+                                227,
+                                243
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        226,
+                                        227,
+                                        243
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                100,
+                                                226,
+                                                227,
+                                                243
+                                            ],
+                                            "type": "text",
+                                            "content": "三、簡單的查詢範例"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                100,
+                                250,
+                                324,
+                                267
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        250,
+                                        324,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                100,
+                                                250,
+                                                324,
+                                                267
+                                            ],
+                                            "type": "text",
+                                            "content": "四、API查詢語法及其參數使用說明"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                275,
+                                227,
+                                290
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        275,
+                                        227,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                275,
+                                                227,
+                                                290
+                                            ],
+                                            "type": "text",
+                                            "content": "五、API-JSON 格式"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                298,
+                                339,
+                                315
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        298,
+                                        339,
+                                        315
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                298,
+                                                339,
+                                                315
+                                            ],
+                                            "type": "text",
+                                            "content": "六、資料集或其資料屬性快速下載方式"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        99,
+                        322,
+                        227,
+                        339
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                322,
+                                227,
+                                339
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        322,
+                                        227,
+                                        339
+                                    ],
+                                    "type": "text",
+                                    "content": "附表一、功能代碼表"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        86,
+                        370,
+                        146,
+                        386
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                370,
+                                146,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        370,
+                                        146,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "一、簡介"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        86,
+                        397,
+                        507,
+                        505
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                397,
+                                507,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        397,
+                                        507,
+                                        505
+                                    ],
+                                    "type": "text",
+                                    "content": "API（Application Programming Interface）即所謂「應用程式介面」，為一個系統上的軟體或應用程式透過網路向另一個特定目的地軟體請求交付資料的方式，總體統計資料庫（以下簡稱總體資料庫）API透過網際網路通用協定提供使用者一個簡便的資料下載模式，使用者可應用瀏覽器，或於應用程式中置入資料請求呼叫的URL格式程式碼，下載所需的資料集。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        86,
+                        507,
+                        508,
+                        653
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                507,
+                                508,
+                                653
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        507,
+                                        508,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "總體資料庫 API 所提供之資料輸出格式稱「API-JSON」格式，API-JSON 系參考 SDMX-JSON<sup>1</sup>格式所設計之 JSON 型態的資料表達方式。SDMX-JSON 為 OECD 等機構依其聯合制定之 SDMX（Statistical Data and Metadata eXchange）標準<sup>2</sup>為基礎，所延伸製定之 JSON 型態資料交換及表達模組；API-JSON 原則上沿用 SDMX-JSON 格式之「表頭」（header）<sup>3</sup>、「資料本體」（dataSet）及「資料結構」（structure）三個主要資料集核心元資料（metadata）元素，惟 API-JSON 格式並未呈現「相關連結」、「計量單位」（API-JSON 將"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        676,
+                        399,
+                        700
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                676,
+                                399,
+                                700
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        676,
+                                        399,
+                                        700
+                                    ],
+                                    "type": "text",
+                                    "content": "1SDMX-JSON 相關說明請參考：https://data.eocd.org/api/sdmx-json-documentation/#d.en.330346。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        87,
+                        702,
+                        506,
+                        754
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                702,
+                                506,
+                                754
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        702,
+                                        506,
+                                        754
+                                    ],
+                                    "type": "text",
+                                    "content": "2SDMX標準為Statistical Data and Metadata eXchange的簡寫，由7個國際組織（包括國際結算銀行（BIS）、歐洲中央銀行（ECB）、歐盟統計局、國際貨幣基金組織（IMF）、經濟合作與發展組織（OECD）、聯合國統計司和世界銀行等）贊助制定，其制定目的係為使國際組織及其成員國之間交換統計數據和元數據的機制和流程標準化。SDMX官網為：https://sdmx.org/。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        87,
+                        754,
+                        493,
+                        766
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                754,
+                                493,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        754,
+                                        493,
+                                        766
+                                    ],
+                                    "type": "text",
+                                    "content": "3SDMX-JSON的「表頭」使用\"header\"為屬性標籤，API-JSON則使用\"meta\"標示「表頭」。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        293,
+                        768,
+                        300,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                768,
+                                300,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        768,
+                                        300,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        72,
+                        506,
+                        106
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                72,
+                                506,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        72,
+                                        506,
+                                        106
+                                    ],
+                                    "type": "text",
+                                    "content": "單位融入屬性名稱中)「屬性之補充說明」及「備註」等SDMX-JSON之基本元資料原素。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        86,
+                        126,
+                        204,
+                        142
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                126,
+                                204,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        126,
+                                        204,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "二、查詢語法結構"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        86,
+                        153,
+                        505,
+                        205
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                153,
+                                505,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        153,
+                                        505,
+                                        205
+                                    ],
+                                    "type": "text",
+                                    "content": "總體資料庫提供各資料（統計）表的資料查詢端點（endpoint），透過API所定義之固定動作（action）輔助讀取所查詢之資料集，並以API-JSON格式呈現查詢結果。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        86,
+                        208,
+                        506,
+                        260
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                208,
+                                506,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        208,
+                                        506,
+                                        260
+                                    ],
+                                    "type": "text",
+                                    "content": "總體資料庫 API 之查詢參數包括「功能代碼」、「篩選運算式」2 部分，為說明方便「篩選運算式」又細分資料維度及資料起迄時間等 面向，其查詢語法結構如下 URL 格式指令碼4："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        115,
+                        278,
+                        470,
+                        294
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                278,
+                                470,
+                                294
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        278,
+                                        470,
+                                        294
+                                    ],
+                                    "type": "text",
+                                    "content": "https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sdmx/"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        151,
+                        296,
+                        204,
+                        310
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                151,
+                                296,
+                                204,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        151,
+                                        296,
+                                        204,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "功能代碼"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        271,
+                        296,
+                        350,
+                        310
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                296,
+                                350,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        296,
+                                        350,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "資料維度篩選"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        149,
+                        317,
+                        394,
+                        333
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                149,
+                                317,
+                                394,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        149,
+                                        317,
+                                        394,
+                                        333
+                                    ],
+                                    "type": "text",
+                                    "content": "&startTime=開始時間 &endTime=結束時間"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        116,
+                        354,
+                        504,
+                        461
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 11,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                116,
+                                354,
+                                504,
+                                388
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        354,
+                                        504,
+                                        388
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                116,
+                                                354,
+                                                504,
+                                                388
+                                            ],
+                                            "type": "text",
+                                            "content": "■功能代碼：定義一組可被API操作之物件（即資料表或統計表5），以及對這物件運作之固定動作。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                391,
+                                504,
+                                424
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        391,
+                                        504,
+                                        424
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                116,
+                                                391,
+                                                504,
+                                                424
+                                            ],
+                                            "type": "text",
+                                            "content": "■ 資料維度篩選：針對資料表，提供使用者查詢其特定某些資料維度（dimension）的設定。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                428,
+                                504,
+                                461
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        428,
+                                        504,
+                                        461
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                116,
+                                                428,
+                                                504,
+                                                461
+                                            ],
+                                            "type": "text",
+                                            "content": "■資料集之起迄日期設定：以「&startTime=開始時間&endTime=結束時間」形式，設定欲查詢資料之統計期間。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        86,
+                        464,
+                        505,
+                        515
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                464,
+                                505,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        464,
+                                        505,
+                                        515
+                                    ],
+                                    "type": "text",
+                                    "content": "為使初步接觸WEB API的使用者，對總體資料庫API建立入門概念，我們會先以一個簡單例子快覽API的查詢語法，然後再進一步說明各API參數的使用細節。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        86,
+                        535,
+                        218,
+                        552
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                535,
+                                218,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        535,
+                                        218,
+                                        552
+                                    ],
+                                    "type": "text",
+                                    "content": "三、簡單的查詢範例"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        115,
+                        563,
+                        501,
+                        579
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                563,
+                                501,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        563,
+                                        501,
+                                        579
+                                    ],
+                                    "type": "text",
+                                    "content": "我們以底下的簡單例子來說明總體資料庫 API 的查詢語法結構："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        113,
+                        597,
+                        453,
+                        613
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                113,
+                                597,
+                                453,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        597,
+                                        453,
+                                        613
+                                    ],
+                                    "type": "text",
+                                    "content": "https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sdmx/"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        133,
+                        614,
+                        208,
+                        628
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                133,
+                                614,
+                                208,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        133,
+                                        614,
+                                        208,
+                                        628
+                                    ],
+                                    "type": "text",
+                                    "content": "A040101020"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        273,
+                        614,
+                        462,
+                        628
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                273,
+                                614,
+                                462,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        614,
+                                        462,
+                                        628
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "1 + 2 + 3.1.1 + 2 + 3 + 4 + 5 + 6 + 7 + 8.\\mathrm{M}"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        146,
+                        635,
+                        371,
+                        650
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                146,
+                                635,
+                                371,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        146,
+                                        635,
+                                        371,
+                                        650
+                                    ],
+                                    "type": "text",
+                                    "content": "&startTime=2019-01&endTime=2020-03"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        702,
+                        506,
+                        727
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                702,
+                                506,
+                                727
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        702,
+                                        506,
+                                        727
+                                    ],
+                                    "type": "text",
+                                    "content": "4為了說明及閱讀者理解方便，我們刻意將URL格式指令碼分段或添加空白字元，實際應用時請留意勿將URL任意加入分段符號或空白字元。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "bbox": [
+                        87,
+                        728,
+                        504,
+                        766
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                728,
+                                504,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        728,
+                                        504,
+                                        766
+                                    ],
+                                    "type": "text",
+                                    "content": "5總體資料庫API係以統計表為資料集單元，目前亦僅開法以API形式查詢統計表或其屬性資訊，故除有特別聲明外，本說明上之「統計表」、「資料表」及「資料集」等詞會有混用的情形，其表達的內涵原則上是一致的。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "bbox": [
+                        292,
+                        768,
+                        301,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                292,
+                                768,
+                                301,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        768,
+                                        301,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        89,
+                        73,
+                        155,
+                        87
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                73,
+                                155,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        73,
+                                        155,
+                                        87
+                                    ],
+                                    "type": "text",
+                                    "content": "查詢標的："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        99,
+                        89,
+                        503,
+                        142
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 3,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                99,
+                                89,
+                                503,
+                                124
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        89,
+                                        503,
+                                        124
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                89,
+                                                503,
+                                                124
+                                            ],
+                                            "type": "text",
+                                            "content": "■資料表一勞工統計領域，勞動力人口統計單元之「勞動力-按教育程度分」表，該表之功能定義代碼為「A040101020」。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                126,
+                                341,
+                                142
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        126,
+                                        341,
+                                        142
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                126,
+                                                341,
+                                                142
+                                            ],
+                                            "type": "text",
+                                            "content": "■ 資料維度：此查詢包含 3 個資料維度"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        114,
+                        144,
+                        504,
+                        196
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                114,
+                                144,
+                                504,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        144,
+                                        504,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "維度1（統計項）－「勞動力」領域下之「就業者」、「失業者」及「非勞動力」統計項；對應的URL程式碼：1+2+3。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        114,
+                        199,
+                        504,
+                        232
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                114,
+                                199,
+                                504,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        199,
+                                        504,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "維度 2 (複分類 1) - 「性別」複分類下之「合計」項; 對應的 URL 程式碼: 1。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        114,
+                        235,
+                        504,
+                        322
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                114,
+                                235,
+                                504,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        235,
+                                        504,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "維度3（複分類2）-「教育程度」複分類下之「合計」、「國小及以下」「國中」「高級中等(高中、高職)」「專科」「大學及以上」「大學」「研究所」項；對應的URL程式碼：1+2+3+4+5+6+7+8。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        99,
+                        327,
+                        500,
+                        377
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 9,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                99,
+                                327,
+                                396,
+                                342
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        327,
+                                        396,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                327,
+                                                396,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "■ 資料週期：月資料；對應的 URL 程式碼：M。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                344,
+                                500,
+                                377
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        344,
+                                        500,
+                                        377
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                344,
+                                                500,
+                                                377
+                                            ],
+                                            "type": "text",
+                                            "content": "統計期：108年1月至109年3月；對應的URL程式碼：startTime=2019-M1&endTime=2020-M3。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        88,
+                        391,
+                        183,
+                        406
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                391,
+                                183,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        391,
+                                        183,
+                                        406
+                                    ],
+                                    "type": "text",
+                                    "content": "語法簡要說明："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        86,
+                        408,
+                        504,
+                        568
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 14,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                87,
+                                408,
+                                504,
+                                441
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        408,
+                                        504,
+                                        441
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                408,
+                                                504,
+                                                441
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 本例子之查詢標的，若應用總體資料庫所提供之單表查詢介面，其查詢參數設定如下圖所示。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                445,
+                                503,
+                                478
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        445,
+                                        503,
+                                        478
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                445,
+                                                503,
+                                                478
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 總體資料庫之每個統計表都定義唯一對應的功能代碼(功能物件),「勞動力-按教育程度分」表之功能代碼為「A040101020」。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                481,
+                                504,
+                                568
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        481,
+                                        504,
+                                        568
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                481,
+                                                504,
+                                                568
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 總體資料庫將一般統計表解析為「統計項」與「複分類」交叉形式，「勞動力-按教育程度分」表之統計項為「勞動力」，複分類有「性別」及「教育程度」2類（如下圖），也就是說「勞動力-按教育程度分」表由「勞動力*性別*教育程度」交叉組成（「A*B」表示A與B類的細項目合組之交叉表（cross table））。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        581,
+                        503,
+                        654
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                581,
+                                503,
+                                654
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        581,
+                                        503,
+                                        654
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                581,
+                                                503,
+                                                654
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f93559328207e9bb7a1d662c8899ddbed459a95267691ecb2ef7072c62531f7b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        658,
+                        504,
+                        735
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                658,
+                                504,
+                                735
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        658,
+                                        504,
+                                        735
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                658,
+                                                504,
+                                                735
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f828ca3727270bc804a21f4bfe2dba15c001231a11b96b1569ad60fb3b47dbae.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        768,
+                        300,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                768,
+                                300,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        768,
+                                        300,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        72,
+                        506,
+                        216
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                72,
+                                506,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        72,
+                                        506,
+                                        216
+                                    ],
+                                    "type": "text",
+                                    "content": "4. 總體資料庫 API 的資料維度係依統計表之「統計項」與「複分類」，依其定義序位由「1」開始依序編碼（此與 JSON 陣列慣以 0 為起始序號之模式不同），故 API 的第 1 個資料維度為「統計項」，第 2 個資料維度為第 1 項「複分類」（複分類之序位係以資料庫中其 metadata 所定義的序位次序為準），其餘「複分類」依此原則次第編碼，以「勞動力-按教育程度分」表為例，API 的第 1 個資料維度為「勞動力」，第 2 及 3 個資料維度分別為「性別」及「教育程度」，「統計項」與「複分類」下項目編碼原則亦雷同（請參考上圖標示）。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        86,
+                        217,
+                        314,
+                        233
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                217,
+                                314,
+                                233
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        217,
+                                        314,
+                                        233
+                                    ],
+                                    "type": "text",
+                                    "content": "5. 不同資料維度間以「.」符號區隔。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        86,
+                        253,
+                        314,
+                        271
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                253,
+                                314,
+                                271
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        253,
+                                        314,
+                                        271
+                                    ],
+                                    "type": "text",
+                                    "content": "四、API查詢語法及其參數使用說明"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        115,
+                        280,
+                        354,
+                        296
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                280,
+                                354,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        280,
+                                        354,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "總體資料庫 API 之查詢語法結構如下："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        115,
+                        314,
+                        470,
+                        331
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                314,
+                                470,
+                                331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        314,
+                                        470,
+                                        331
+                                    ],
+                                    "type": "text",
+                                    "content": "https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sdmx/"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        151,
+                        332,
+                        204,
+                        347
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                151,
+                                332,
+                                204,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        151,
+                                        332,
+                                        204,
+                                        347
+                                    ],
+                                    "type": "text",
+                                    "content": "功能代碼"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        271,
+                        332,
+                        350,
+                        346
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                332,
+                                350,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        332,
+                                        350,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": "資料維度篩選"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        149,
+                        354,
+                        394,
+                        368
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                149,
+                                354,
+                                394,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        149,
+                                        354,
+                                        394,
+                                        368
+                                    ],
+                                    "type": "text",
+                                    "content": "&startTime=開始時間 &endTime=結束時間"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        86,
+                        390,
+                        505,
+                        461
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                390,
+                                505,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        390,
+                                        505,
+                                        461
+                                    ],
+                                    "type": "text",
+                                    "content": "，API之URL長度限制於1,000個字元內，採匿名查詢模式，無身份驗證要求，提供總體資料庫已對外公開資料之單表查詢，每次僅能針對單一功能代碼所對應的物件進行查詢，無跨表查詢機制，參數使用方式如下表所示。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        471,
+                        506,
+                        746
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                471,
+                                506,
+                                746
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        471,
+                                        506,
+                                        746
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                471,
+                                                506,
+                                                746
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>參數</td><td>使用說明</td></tr><tr><td>功能代碼</td><td>1.標示查詢物件(資料集)，屬必要不可省略之參數。\n2.格式為「A+9個數字（0~9)」，各資料表之功能代碼請參見附表一。</td></tr><tr><td>資料維度篩選</td><td>1.查詢資料之維度為總體資料庫API之必要參數，不可省略。\n2.一個「統計項」或「複分類」代表一個資料維度。\n3.對總體資料庫各資料集所定義的「統計項」與「複分類」之項目以數字編碼。\n4.「統計項」與「複分類」有次序性，其次序規範係參照總體資料庫中元資料（metadata）之定義次序。\n5.總體資料庫各資料集之「統計項」與「複分類」資料，可透過「功能代碼」，以此API進行查詢：</td></tr><tr><td></td><td>https://nstatdb.dgbas.gov.tw/dgbasAll/\nwebMain.aspx?sys=210 &amp;funid=功能代碼</td></tr><tr><td></td><td>，如前例「勞動力-按教育程度分」表的「統計項」\n與「複分類」結構，可應用此URL查詢：</td></tr><tr><td></td><td>https://nstatdb.dgbas.gov.tw/dgbasAll/\nwebMain.aspx?sys=210 &amp;funid=A040101020</td></tr><tr><td></td><td>6.「統計項」與「複分類」之項目編碼，請參考「三、\n簡單的查詢範例」之語法簡要說明。\n7(API之資料維度篩選，不同資料維度間以「.」符號\n區隔，資料各維度下欲查詢之項目，依序列出其編\n碼數字，並以「+」符號串接同一資料維度之查詢\n之項目。\n8.若欲查詢某資料維度下之「所有」項目，可應用前\n項規則，以「+」符號依序串接該屬性所有項目編\n碼，亦可直接不標示該維度之項目編碼，API將透\n過「.」符號辨識需求。(此與其他API常以「all」\n的參數模式不同，此處我們捨去「all」參數以簡化\nAPI的URL格式)</td></tr><tr><td>資料週期設定</td><td>1.年、月或季之統計資料週期需接續於資料維度後，\n並與資料維度間以「.」符號區隔查詢。\n2.統計資料週期屬總體資料庫API之必要參數，不\n可省略。\n3.總體資料庫目前有3類型態之統計週期：年、月\n及季，API參數分別以M(月)、Q(季)、A(年)\n表示。</td></tr><tr><td>統計期設定</td><td>1.分別以「&amp;startTime=開始時間」及「&amp;endTime=\n結束時間」，設定查詢資料之日起訖期間。\n2.資料之起訖統計期設定屬總體資料庫API之必要\n參數。\n3.統計期時間之「年」以西洋年標示，若統計週期\n之為「月」或「季」者，以「西洋年-月」或「西\n洋年-季」格式表示，「季」之表達形式為：Q1、\nQ2、Q3及Q4，「月」之表達形式為：M1~M12。</td></tr></table>",
+                                            "image_path": "285c462ab2b4851d84ff30a2bba661e9253f0c77148afb5ca18f3e1a927e481a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        768,
+                        301,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                768,
+                                301,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        768,
+                                        301,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        506,
+                        743
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                70,
+                                506,
+                                743
+                            ],
+                            "lines": [],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body",
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        768,
+                        301,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                768,
+                                301,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        768,
+                                        301,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        81,
+                        215,
+                        97
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                81,
+                                215,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        81,
+                                        215,
+                                        97
+                                    ],
+                                    "type": "text",
+                                    "content": "五、API-JSON 格式"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        88,
+                        107,
+                        500,
+                        142
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                107,
+                                500,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        107,
+                                        500,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "API-JSON 格式分「表頭」、「資料本體」及「資料結構」三部分，分別以\"meta\"、\"data\"及\"structure\"標示屬性（如下圖所示）。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        151,
+                        502,
+                        366
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                151,
+                                502,
+                                366
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        151,
+                                        502,
+                                        366
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                151,
+                                                502,
+                                                366
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b40869a3070011830c338d08c2c01554b0556440160f886d78192dbe1f6315eb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        88,
+                        386,
+                        119,
+                        401
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                386,
+                                119,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        386,
+                                        119,
+                                        401
+                                    ],
+                                    "type": "text",
+                                    "content": "表頭"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        88,
+                        412,
+                        506,
+                        466
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                412,
+                                506,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        412,
+                                        506,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "「表頭」部分，紀錄該資料集之查詢時間(\"prepared\")，資料集產製者(\"sender\")，對應此查詢之API的URL(\"links\")，及由系統自動配置的查詢結果唯一識別碼(\"id\")。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        89,
+                        476,
+                        147,
+                        492
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                476,
+                                147,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        476,
+                                        147,
+                                        492
+                                    ],
+                                    "type": "text",
+                                    "content": "資料本體"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        86,
+                        503,
+                        500,
+                        538
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                503,
+                                500,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": "如我們的查詢資料集，具d個資料維度（以 "
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathsf{l}_{\\mathsf{i}}"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": " 表示， "
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathsf{i} = 1,\\ldots ,\\mathsf{d}"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": " ），"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathsf{l}_1"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": " 為資料集之統計項， "
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathsf{l}_2,\\ldots ,\\mathsf{l}_{\\mathsf{d}}"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        503,
+                                        500,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": " 為資料集之複分類。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        86,
+                        539,
+                        503,
+                        592
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                539,
+                                503,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": "若每個資料維度 "
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "I_{i}"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": " 具 "
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "D_{i}"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": " 個資料項目，則 "
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "API"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": " 會產製 "
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "D_{1}^{*}D_{2}^{*}\\dots *D_{d}"
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        539,
+                                        503,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": " 個時間數列 (\"series\")，而數列長度即所查詢的統計資料期間。（如下左圖所示）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        112,
+                        608,
+                        248,
+                        746
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                112,
+                                608,
+                                248,
+                                746
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        608,
+                                        248,
+                                        746
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                112,
+                                                608,
+                                                248,
+                                                746
+                                            ],
+                                            "type": "image",
+                                            "image_path": "02dc10067a73cebe6e799636acd3b6ab433d96d39a90f56a89068630e6e45f1d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        296,
+                        605,
+                        486,
+                        744
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                296,
+                                605,
+                                486,
+                                744
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        296,
+                                        605,
+                                        486,
+                                        744
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                296,
+                                                605,
+                                                486,
+                                                744
+                                            ],
+                                            "type": "image",
+                                            "image_path": "a3597bdee332ebb369ab42274c345730bd5c0b37be1e9ba01aa728d72d6f9da1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        768,
+                        301,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                768,
+                                301,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        768,
+                                        301,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        86,
+                        72,
+                        507,
+                        179
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                72,
+                                507,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        72,
+                                        507,
+                                        179
+                                    ],
+                                    "type": "text",
+                                    "content": "以前述之「勞動力-按教育程度分」表查詢為例，API將產生3（3個勞動力統計項）*1（性別複分類之合計項）*8（8個教育程度複分類項目）之24個時間數列所組成的3維陣列（如上右圖所示），陣列指標（index）由[0:0:0]~[2:0:7]，指標維度分別與資料維度依序進行1對1對應（注意：JSON陣列指標慣以0為起始序號），每個時間數列長度有15筆資料（108年1月至109年3月，每月1筆資料）。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        88,
+                        190,
+                        147,
+                        206
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                190,
+                                147,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        190,
+                                        147,
+                                        206
+                                    ],
+                                    "type": "text",
+                                    "content": "資料結構"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        87,
+                        217,
+                        505,
+                        251
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                217,
+                                505,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        217,
+                                        505,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "資料結構的\"dimensions\"屬性記錄統計項、複分類及查詢資料期等資訊，\"dimensions\"屬性包含\"series\"及\"observation\"2屬性。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        86,
+                        253,
+                        506,
+                        324
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                253,
+                                506,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        253,
+                                        506,
+                                        324
+                                    ],
+                                    "type": "text",
+                                    "content": "\"series\"紀錄資料維度（統計項與複分類）及其項目資訊，資料維度的編碼紀錄於\"keyPosition\"屬性，各資料維度下項目編碼紀錄於\"keyPosition\"屬性下\"values\"屬性的\"id\"，而透過此編碼紀錄同階層下之\"name\"，即可串聯出統計項與複分類的中文名稱。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        86,
+                        327,
+                        506,
+                        380
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                327,
+                                506,
+                                380
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        327,
+                                        506,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "\"observation\"屬性下\"values\"屬性的\"id\"紀錄查詢的資料統計期編碼（編碼採用西元年），而透過同階層下之\"name\"，即可串聯統計期的中文名稱（採用民國紀年）。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        86,
+                        398,
+                        329,
+                        415
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                398,
+                                329,
+                                415
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        398,
+                                        329,
+                                        415
+                                    ],
+                                    "type": "text",
+                                    "content": "六、資料集或其資料屬性快速下載方式"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        86,
+                        426,
+                        505,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                426,
+                                505,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        426,
+                                        505,
+                                        497
+                                    ],
+                                    "type": "text",
+                                    "content": "總體資料庫 API 另提供以功能代碼快速下載完整單一資料集之內容(即該資料集於總體資料庫之全部開放內容,含年、季及月資料)或其元資料(含統計項、複分類及資料集完整之統計期間)之模式,此資訊亦呈現於 API-JSON 資料結構(\"structure\")之\"links\"屬性內。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        87,
+                        508,
+                        299,
+                        525
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                508,
+                                299,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        508,
+                                        299,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 查询資料集完整內容及其元資料"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        116,
+                        541,
+                        477,
+                        576
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                116,
+                                541,
+                                477,
+                                576
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        541,
+                                        477,
+                                        576
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                116,
+                                                541,
+                                                477,
+                                                576
+                                            ],
+                                            "type": "text",
+                                            "content": "https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sdmx/功能代码"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 8,
+                    "sub_type": "code",
+                    "guess_lang": "txt"
+                },
+                {
+                    "bbox": [
+                        86,
+                        597,
+                        406,
+                        614
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                597,
+                                406,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        597,
+                                        406,
+                                        614
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 查询資料集完整元資料（但不擲取統計資料內容）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "code",
+                    "bbox": [
+                        116,
+                        631,
+                        477,
+                        665
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                116,
+                                631,
+                                477,
+                                665
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        631,
+                                        477,
+                                        665
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                116,
+                                                631,
+                                                477,
+                                                665
+                                            ],
+                                            "type": "text",
+                                            "content": "https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sdmx/功能代碼"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "code_body"
+                        }
+                    ],
+                    "index": 10,
+                    "sub_type": "code",
+                    "guess_lang": "txt"
+                },
+                {
+                    "bbox": [
+                        86,
+                        687,
+                        506,
+                        740
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                687,
+                                506,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        687,
+                                        506,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": "為保持 API-JSON 格式之一致性，及統計資料與元資料能相互對應，此查詢輸出之 API-JSON 之格式與前項（查詢資料集完整內容及其元資料）一致，惟統計資料之值以空序列呈現。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        768,
+                        301,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                768,
+                                301,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        768,
+                                        301,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "7"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        87,
+                        72,
+                        201,
+                        89
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                72,
+                                201,
+                                89
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        72,
+                                        201,
+                                        89
+                                    ],
+                                    "type": "text",
+                                    "content": "3.一般的查詢模式"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        115,
+                        105,
+                        471,
+                        121
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                105,
+                                471,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        105,
+                                        471,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sdmx/"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        151,
+                        123,
+                        204,
+                        137
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                151,
+                                123,
+                                204,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        151,
+                                        123,
+                                        204,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "功能代碼"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        271,
+                        123,
+                        349,
+                        137
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                123,
+                                349,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        123,
+                                        349,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "資料維度篩選"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        149,
+                        145,
+                        394,
+                        159
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                149,
+                                145,
+                                394,
+                                159
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        149,
+                                        145,
+                                        394,
+                                        159
+                                    ],
+                                    "type": "text",
+                                    "content": "&startTime=開始時間 &endTime=結束時間"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        86,
+                        181,
+                        417,
+                        199
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                181,
+                                417,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        181,
+                                        417,
+                                        199
+                                    ],
+                                    "type": "text",
+                                    "content": "4. 各資料集之「統計項」與「複分類」樹狀結構查詢"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        115,
+                        220,
+                        376,
+                        238
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                220,
+                                376,
+                                238
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        220,
+                                        376,
+                                        238
+                                    ],
+                                    "type": "text",
+                                    "content": "https://nstatdb.dgbas.gov.tw/dgbasAll/"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        161,
+                        239,
+                        327,
+                        257
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                161,
+                                239,
+                                327,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        161,
+                                        239,
+                                        327,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "webMain.aspx?sys=210"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        345,
+                        240,
+                        465,
+                        257
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                345,
+                                240,
+                                465,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        345,
+                                        240,
+                                        465,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "&funid=功能代碼"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        767,
+                        301,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                767,
+                                301,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        767,
+                                        301,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        104,
+                        505,
+                        766
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                75,
+                                216,
+                                92
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        75,
+                                        216,
+                                        92
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                75,
+                                                216,
+                                                92
+                                            ],
+                                            "type": "text",
+                                            "content": "附表一、功能代碼表"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                88,
+                                104,
+                                505,
+                                766
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        104,
+                                        505,
+                                        766
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                104,
+                                                505,
+                                                766
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>統計領域</td><td>表名</td><td>功能代碼</td></tr><tr><td>國民所得統計</td><td>國民所得統計常用資料</td><td>A018101010</td></tr><tr><td>國民所得統計</td><td>國內生產毛額依支出分(40年-69年)</td><td>A018102010</td></tr><tr><td>國民所得統計</td><td>國內生產及要素所得</td><td>A018102020</td></tr><tr><td>國民所得統計</td><td>經季節調整之國內生產毛額依支出分</td><td>A018102030</td></tr><tr><td>國民所得統計</td><td>國內生產毛額依支出分-年(70年以後)</td><td>A018102050</td></tr><tr><td>國民所得統計</td><td>國內生產毛額依支出分-季(70年以後)</td><td>A018102060</td></tr><tr><td>國民所得統計</td><td>國內生產毛額貢獻度依支出分</td><td>A018102070</td></tr><tr><td>國民所得統計</td><td>國內生產毛額貢獻度依行業分-年</td><td>A018102080</td></tr><tr><td>國民所得統計</td><td>國內生產毛額貢獻度依行業分-季</td><td>A018102081</td></tr><tr><td>國民所得統計</td><td>國內各業生產及平減指數-年</td><td>A018103010</td></tr><tr><td>國民所得統計</td><td>國內各業生產及平減指數-季</td><td>A018103020</td></tr><tr><td>國民所得統計</td><td>國民所得、儲蓄與投資</td><td>A018201010</td></tr><tr><td>國民所得統計</td><td>平均每人統計結果</td><td>A018202010</td></tr><tr><td>國民所得統計</td><td>民間消費-年</td><td>A018203010</td></tr><tr><td>國民所得統計</td><td>民間消費-季</td><td>A018203020</td></tr><tr><td>國民所得統計</td><td>固定資本形成毛額-年</td><td>A018401010</td></tr><tr><td>國民所得統計</td><td>固定資本形成毛額-季</td><td>A018401020</td></tr><tr><td>國民所得統計</td><td>各業固定資本形成毛額</td><td>A018402010</td></tr><tr><td>國民所得統計</td><td>存貨變動</td><td>A018403010</td></tr><tr><td>國民所得統計</td><td>國內資本形成毛額之財源</td><td>A018405010</td></tr><tr><td>國民所得統計</td><td>對外交易</td><td>A018701010</td></tr><tr><td>國民所得統計</td><td>所得按部門別之分配</td><td>A018702010</td></tr><tr><td>國民所得統計</td><td>所得收支帳</td><td>A018702020</td></tr><tr><td>國民所得統計</td><td>家庭及民間非營利機構之收支</td><td>A018703010</td></tr><tr><td>國民所得統計</td><td>公司企業部門之收支</td><td>A018704010</td></tr><tr><td>國民所得統計</td><td>一般政府經常收支</td><td>A018705010</td></tr><tr><td>國民所得統計</td><td>政府消費</td><td>A018706010</td></tr><tr><td>家庭收支統計</td><td>家庭收支重要指標</td><td>A020001010</td></tr><tr><td>家庭收支統計</td><td>所得總額-按來源別分</td><td>A020002010</td></tr><tr><td>家庭收支統計</td><td>戶數五等分位組之平均每戶可支配所得、消費支出及儲蓄</td><td>A020003010</td></tr><tr><td>家庭收支統計</td><td>戶數五等分位組之所得分配比與所得差距</td><td>A020004010</td></tr><tr><td>家庭收支統計</td><td>人數五等分位組之所得差距</td><td>A020004020</td></tr><tr><td>家庭收支統計</td><td>政府對家庭移轉收支對所得分配之影響</td><td>A020005010</td></tr><tr><td>家庭收支統計</td><td>戶數十等分位組分界點之可支配所得</td><td>A020006010</td></tr><tr><td>家庭收支統計</td><td>人數十等分位組分界點之可支配所得</td><td>A020006020</td></tr><tr><td>家庭收支統計</td><td>家庭消費支出結構-按消費型態分</td><td>A020007010</td></tr><tr><td>家庭收支統計</td><td>家庭住宅狀況</td><td>A020008010</td></tr><tr><td>家庭收支統計</td><td>家庭主要設備普及率</td><td>A020009010</td></tr><tr><td>家庭收支統計</td><td>戶數五等分位組之平均每戶人數與就業人數</td><td>A020010010</td></tr><tr><td>家庭收支統計</td><td>家庭戶數-按戶內人口規模別之分配</td><td>A020011010</td></tr><tr><td>物價統計</td><td>消費者物價基本分類指數</td><td>A030101015</td></tr><tr><td>物價統計</td><td>消費者物價基本分類暨項目群指數</td><td>A030101025</td></tr><tr><td>物價統計</td><td>消費者物價商品性質分類指數</td><td>A030102015</td></tr><tr><td>物價統計</td><td>消費者物價特殊分類指數</td><td>A030103015</td></tr><tr><td>物價統計</td><td>所得層級別消費者物價指數</td><td>A030104015</td></tr><tr><td>物價統計</td><td>消費者物價購買頻度別指數</td><td>A030105015</td></tr><tr><td>物價統計</td><td>蒐集物價內外銷分類指數</td><td>A030201010</td></tr><tr><td>物價統計</td><td>蒐集物價基本分類指數</td><td>A030202010</td></tr><tr><td>物價統計</td><td>蒐集物價內銷品基本分類指數</td><td>A030203010</td></tr><tr><td>物價統計</td><td>蒐集物價國產品基本分類指數</td><td>A030204010</td></tr><tr><td>物價統計</td><td>蒐集物價內銷品加工階段分類指數</td><td>A030205010</td></tr><tr><td>物價統計</td><td>蒐集物價國產內銷品基本分類指數</td><td>A030207010</td></tr><tr><td>物價統計</td><td>進口物價基本分類指數(按HS)(美元計價)</td><td>A030301015</td></tr><tr><td>物價統計</td><td>進口物價基本分類指數(按HS)(新臺幣計價)</td><td>A030302015</td></tr><tr><td>物價統計</td><td>進口物價用途別分類指數(新臺幣計價)</td><td>A030303015</td></tr><tr><td>物價統計</td><td>進口物價部門別分類指數(新臺幣計價)</td><td>A030305010</td></tr><tr><td>物價統計</td><td>進口物價用途別分類指數(美元計價)</td><td>A030306015</td></tr><tr><td>物價統計</td><td>進口物價部門別分類指數(美元計價)</td><td>A030308010</td></tr><tr><td>物價統計</td><td>出口物價基本分類指數(按HS)(美元計價)</td><td>A030401015</td></tr><tr><td>物價統計</td><td>出口物價基本分類指數(按HS)(新臺幣計價)</td><td>A030402015</td></tr><tr><td>物價統計</td><td>出口物價部門別分類指數(新臺幣計價)</td><td>A030403010</td></tr><tr><td>物價統計</td><td>出口物價用途別分類指數(新臺幣計價)</td><td>A030405015</td></tr><tr><td>物價統計</td><td>出口物價部門別分類指數(美元計價)</td><td>A030406010</td></tr><tr><td>物價統計</td><td>出口物價用途別分類指數(美元計價)</td><td>A030408015</td></tr><tr><td>物價統計</td><td>營造工程物價指數</td><td>A030501015</td></tr><tr><td>物價統計</td><td>營造工程物價指數(含查價項目)</td><td>A030502015</td></tr><tr><td>物價統計</td><td>各種物價總指數(含經季節調整)</td><td>A030601015</td></tr><tr><td>物價統計</td><td>生產者物價基本分類指數</td><td>A030701015</td></tr><tr><td>物價統計</td><td>國產內銷物價基本分類指數</td><td>A030702015</td></tr><tr><td>物價統計</td><td>內銷品物價基本分類指數</td><td>A030801015</td></tr><tr><td>物價統計</td><td>內銷品物價按加工階段別分類指數</td><td>A030802015</td></tr><tr><td>物價統計</td><td>服務業生產者物價基本分類指數</td><td>A030901015</td></tr><tr><td>勞工統計</td><td>勞動力-按教育程度分</td><td>A040101020</td></tr><tr><td>勞工統計</td><td>勞動力-按年齡分</td><td>A040102010</td></tr><tr><td>勞工統計</td><td>各行業就業人口(第六次修訂67年-90年)</td><td>A040103010</td></tr><tr><td>勞工統計</td><td>各行業就業人口(第七次修訂88年-95年)</td><td>A040103020</td></tr><tr><td>勞工統計</td><td>各行業就業人口(第八次修訂90年-100年)</td><td>A040103030</td></tr><tr><td>勞工統計</td><td>各行業就業人口(第九次修訂101年-105年)</td><td>A040103040</td></tr><tr><td>勞工統計</td><td>各行業就業人口(第十次修訂 106 年以後)</td><td>A040103050</td></tr><tr><td>勞工統計</td><td>職業別就業人口(第五次修訂 67 年-99 年)</td><td>A040104010</td></tr><tr><td>勞工統計</td><td>職業別就業人口(第六次修訂 90 年以後)</td><td>A040104020</td></tr><tr><td>勞工統計</td><td>從業身分別就業人口</td><td>A040105010</td></tr><tr><td>勞工統計</td><td>非勞動力人口原因</td><td>A040106020</td></tr><tr><td>勞工統計</td><td>人力資源指標</td><td>A040107010</td></tr><tr><td>勞工統計</td><td>勞參率及失業率-按教育程度分</td><td>A040108010</td></tr><tr><td>勞工統計</td><td>勞參率及失業率-按年齡分</td><td>A040109010</td></tr><tr><td>勞工統計</td><td>失業者-按失業原因分</td><td>A040111010</td></tr><tr><td>勞工統計</td><td>公立職訓機構自辦訓練人數</td><td>A041102010</td></tr><tr><td>勞工統計</td><td>就業服務概況</td><td>A041103010</td></tr><tr><td>勞工統計</td><td>定額進用身心障礙者機構數及人數</td><td>A041104010</td></tr><tr><td>勞工統計</td><td>勞資爭議協商調處績效</td><td>A041201010</td></tr><tr><td>勞工統計</td><td>舊制勞工退休準備金提撥概況</td><td>A041203010</td></tr><tr><td>勞工統計</td><td>新制勞工退休金提繳概況</td><td>A041204010</td></tr><tr><td>勞工統計</td><td>勞雇雙方協商減少工時概況</td><td>A041205010</td></tr><tr><td>勞工統計</td><td>產業及社福移工人數</td><td>A041301010</td></tr><tr><td>勞工統計</td><td>外國專業人員有效聘僱許可人次</td><td>A041302010</td></tr><tr><td>勞工統計</td><td>勞工保險職業災害保險給付</td><td>A041401010</td></tr><tr><td>勞工統計</td><td>勞工保險投保單位數及人數</td><td>A041402010</td></tr><tr><td>勞工統計</td><td>就業保險失業給付情形</td><td>A041403010</td></tr><tr><td>勞工統計</td><td>就業保險投保單位數及人數</td><td>A041404010</td></tr><tr><td>勞工統計</td><td>職業災害勞工保護補助</td><td>A041405010</td></tr><tr><td>勞工統計</td><td>受僱員工人數</td><td>A046101010</td></tr><tr><td>勞工統計</td><td>每人每月總薪資</td><td>A046201010</td></tr><tr><td>勞工統計</td><td>每人每月經常性薪資</td><td>A046301010</td></tr><tr><td>勞工統計</td><td>受僱員工人每人每月工時</td><td>A046401010</td></tr><tr><td>勞工統計</td><td>受僱員工進退狀況</td><td>A046501010</td></tr><tr><td>勞工統計</td><td>勞動生產力指數與單位產出勞動成本指數</td><td>A046601010</td></tr><tr><td>工商業統計</td><td>工業生產指數</td><td>A050104010</td></tr><tr><td>工商業統計</td><td>外銷訂單按主要接單地區</td><td>A050105010</td></tr><tr><td>工商業統計</td><td>外銷訂單按主要接單貨品</td><td>A050106010</td></tr><tr><td>工商業統計</td><td>租賃業、專業及技術服務業營業額</td><td>A050107010</td></tr><tr><td>工商業統計</td><td>批發零售及餐飲業營業額</td><td>A050107020</td></tr><tr><td>工商業統計</td><td>工廠-新登記及歇業(行業分類第八、九次修訂 96 年以後)</td><td>A050108010</td></tr><tr><td>工商業統計</td><td>工廠-營運中(行業分類第十次修訂 86 年以後)</td><td>A050108020</td></tr><tr><td>工商業統計</td><td>公司動態(行業分類第八、九次修訂 96 年-105 年)</td><td>A050109010</td></tr><tr><td>工商業統計</td><td>公司動態(行業分類第十次修訂 106 年以後)</td><td>A050109020</td></tr><tr><td>工商業統計</td><td>商業動態(行業分類第八、九次修訂 96 年-105 年)</td><td>A050110010</td></tr><tr><td>工商業統計</td><td>商業動態(行業分類第十次修訂 106 年以後)</td><td>A050110020</td></tr><tr><td>營建與不動產統計</td><td>核發建築物建造執照總樓地板面積-按用途別分</td><td>A060101010</td></tr><tr><td>營建與不動產統計</td><td>核發建築物建造執照總樓地板面積及工程造價-按構造別分</td><td>A060102010</td></tr><tr><td>營建與不動產統計</td><td>核發建築物使用執照總樓地板面積-按用途別分</td><td>A060103010</td></tr><tr><td>交通統計</td><td>郵政統計</td><td>A070101010</td></tr><tr><td>交通統計</td><td>鐵道客運量</td><td>A070103010</td></tr><tr><td>交通統計</td><td>鐵道貨運量</td><td>A070103020</td></tr><tr><td>交通統計</td><td>汽車客運營運狀況</td><td>A070104010</td></tr><tr><td>交通統計</td><td>公路汽車貨運營運狀況</td><td>A070104020</td></tr><tr><td>交通統計</td><td>機動車輛登記數</td><td>A070104030</td></tr><tr><td>交通統計</td><td>高速公路通行輻次</td><td>A070104040</td></tr><tr><td>交通統計</td><td>各國際商港進出港旅客人數</td><td>A070105010</td></tr><tr><td>交通統計</td><td>各國際商港貨物吞吐量</td><td>A070105020</td></tr><tr><td>交通統計</td><td>各國際商港貨櫃裝卸量</td><td>A070105030</td></tr><tr><td>交通統計</td><td>自由貿易港區貿易值</td><td>A070105040</td></tr><tr><td>交通統計</td><td>民航機場進出旅客人數</td><td>A070106010</td></tr><tr><td>交通統計</td><td>航空客、貨運</td><td>A070106020</td></tr><tr><td>交通統計</td><td>來臺旅客人數-按居住地分</td><td>A070107010</td></tr><tr><td>交通統計</td><td>來臺旅客人數-按目的分</td><td>A070107011</td></tr><tr><td>交通統計</td><td>國人出國人數</td><td>A070107020</td></tr><tr><td>交通統計</td><td>觀光旅館概況</td><td>A070107030</td></tr><tr><td>交通統計</td><td>電信業者營運實績</td><td>A071101010</td></tr><tr><td>進出口統計</td><td>進出口貿易總值(特殊貿易制度)</td><td>A080201010</td></tr><tr><td>進出口統計</td><td>進出口貿易值-按主要國家地區別(特殊貿易制度)</td><td>A080202010</td></tr><tr><td>進出口統計</td><td>進出口貿易總值(一般貿易制度)</td><td>A081201010</td></tr><tr><td>進出口統計</td><td>進出口貿易值-按主要國家地區別(一般貿易制度)</td><td>A081202010</td></tr><tr><td>金融統計</td><td>各類金融機構家數</td><td>A090201010</td></tr><tr><td>金融統計</td><td>準備貨幣</td><td>A090301010</td></tr><tr><td>金融統計</td><td>貨幣總計數</td><td>A090501010</td></tr><tr><td>金融統計</td><td>貨幣總計數 M1B 變動因素</td><td>A090601010</td></tr><tr><td>金融統計</td><td>廣義貨幣總計數 M2 變動因素</td><td>A090701010</td></tr><tr><td>金融統計</td><td>全體銀行存款餘額統計-科目別</td><td>A091701010</td></tr><tr><td>金融統計</td><td>全體銀行存款餘額統計-期限別(附定期存款及定期儲蓄存款)</td><td>A091704010</td></tr><tr><td>金融統計</td><td>全體銀行存款餘額統計-存戶別(附定期存款及定期儲蓄存款)</td><td>A091705010</td></tr><tr><td>金融統計</td><td>全體銀行放款餘額統計-科目別</td><td>A091801010</td></tr><tr><td>金融統計</td><td>消費者貸款及建築貸款餘額</td><td>A091901010</td></tr><tr><td>金融統計</td><td>全體銀行外幣放款餘額</td><td>A092001010</td></tr><tr><td>金融統計</td><td>票券市場統計-按交易金額工具別</td><td>A092701010</td></tr><tr><td>金融統計</td><td>債券市場統計-政府公債之發行、償還及餘額</td><td>A092802010</td></tr><tr><td>金融統計</td><td>債券市場統計-國內公司債及金融債券之發行、償還及餘額</td><td>A092803010</td></tr><tr><td>金融統計</td><td>利率統計-存放款加權平均利率</td><td>A093003010</td></tr><tr><td>金融統計</td><td>利率統計-五大銀行新承做放款金額與利率-年</td><td>A093004010</td></tr><tr><td>金融統計</td><td>利率統計-五大銀行新承做放款金額與利率-月</td><td>A093004020</td></tr><tr><td>金融統計</td><td>利率統計-金融業拆款利率</td><td>A093005010</td></tr><tr><td>金融統計</td><td>利率統計-貨幣市場利率</td><td>A093006010</td></tr><tr><td>金融統計</td><td>利率統計-資本市場利率</td><td>A093007010</td></tr><tr><td>金融統計</td><td>外匯統計-出進口外匯收支-年</td><td>A093101010</td></tr><tr><td>金融統計</td><td>外匯統計-出進口外匯收支-月</td><td>A093101020</td></tr><tr><td>金融統計</td><td>外匯統計-外匯交易量、淨部位及外匯存底-年</td><td>A093102010</td></tr><tr><td>金融統計</td><td>外匯統計-外匯交易量、淨部位及外匯存底-月</td><td>A093102020</td></tr><tr><td>金融統計</td><td>外匯統計-台北外幣拆放市場交易</td><td>A093103010</td></tr><tr><td>金融統計</td><td>外匯統計-美元即期匯率及遠期信用狀美金利率</td><td>A093201010</td></tr><tr><td>金融統計</td><td>外匯統計-即期匯率</td><td>A093202010</td></tr><tr><td>金融統計</td><td>外匯統計-美元兑新臺幣遠期匯率</td><td>A093203010</td></tr><tr><td>金融統計</td><td>國際收支簡表</td><td>A093501010</td></tr><tr><td>金融統計</td><td>外匯統計-我國與主要貿易對手通貨對美元之匯率</td><td>A093601010</td></tr><tr><td>金融統計</td><td>資金流量表(90年以後)</td><td>A098102010</td></tr><tr><td>金融統計</td><td>信用卡流通統計</td><td>A099601010</td></tr><tr><td>財政統計</td><td>全國賦稅實徵淨額-按稅目別分</td><td>A100101010</td></tr><tr><td>財政統計</td><td>營利事業家數及銷售額-按稅務行業別分(第七次修訂 102 年-106 年)</td><td>A100102010</td></tr><tr><td>財政統計</td><td>營利事業家數及銷售額-按稅務行業別分(第八次修訂 107 年以後)</td><td>A100102020</td></tr><tr><td>財政統計</td><td>各級政府歲入歲出淨額、餘細及融資</td><td>A100201010</td></tr><tr><td>財政統計</td><td>各級政府歲入淨額-按來源別分</td><td>A100202010</td></tr><tr><td>財政統計</td><td>各級政府歲出淨額-按政事別分</td><td>A100203010</td></tr><tr><td>財政統計</td><td>各級政府債務未償餘額</td><td>A100210010</td></tr><tr><td>證券統計</td><td>公開發行公司股票發行概況</td><td>A110101010</td></tr><tr><td>證券統計</td><td>集中市場證券總成交值概況</td><td>A110201010</td></tr><tr><td>證券統計</td><td>集中市場股票交易概況</td><td>A110203010</td></tr><tr><td>證券統計</td><td>櫃買市場股票交易概況</td><td>A110204010</td></tr><tr><td>證券統計</td><td>集中交易市場成交金額投資人類別比例</td><td>A110208010</td></tr><tr><td>證券統計</td><td>集中交易市場投資法人交易概況</td><td>A110210010</td></tr><tr><td>證券統計</td><td>上市股票平均每股市值及獲利概況</td><td>A110401010</td></tr><tr><td>證券統計</td><td>證券市場股價指數變動概況</td><td>A110404010</td></tr><tr><td>證券統計</td><td>各國證券市場股價指數比較</td><td>A110501010</td></tr><tr><td>證券統計</td><td>股票市場統計-股票信用交易</td><td>A112901010</td></tr><tr><td>景氣指標統計</td><td>景氣指標統計</td><td>A120101010</td></tr><tr><td>人口統計</td><td>村里鄰戶數暨人口數</td><td>A130201010</td></tr><tr><td>人口統計</td><td>現住原住民人口數</td><td>A130202010</td></tr><tr><td>人口統計</td><td>出生、死亡統計</td><td>A130203010</td></tr><tr><td>人口統計</td><td>戶籍登記現住人口數-按五歲年齡組分</td><td>A130204010</td></tr><tr><td>人口統計</td><td>結婚、離婚統計</td><td>A130206010</td></tr><tr><td>人口統計</td><td>結婚人數-按雙方國籍分</td><td>A130206011</td></tr><tr><td>人口統計</td><td>離婚人數-按雙方國籍分</td><td>A130206012</td></tr><tr><td>人口統計</td><td>嬰兒出生數-按生母國籍別分</td><td>A130207010</td></tr><tr><td>人口統計</td><td>15歲以上人口教育程度</td><td>A130208010</td></tr><tr><td>人口統計</td><td>婚姻狀況統計</td><td>A130209010</td></tr><tr><td>人口統計</td><td>國際、內戶籍邁入、遷出、淨邁入人數</td><td>A130210010</td></tr><tr><td>人口統計</td><td>入出境人數統計-按入境地點分</td><td>A130211010</td></tr><tr><td>人口統計</td><td>入出境人數統計-按出境地點分</td><td>A130212010</td></tr><tr><td>人口統計</td><td>平均餘命</td><td>A130215010</td></tr><tr><td>警政與消防統計</td><td>警察機關受(處)理刑事案件</td><td>A140201010</td></tr><tr><td>警政與消防統計</td><td>警察機關處理違反社會秩序維護法案件</td><td>A140202010</td></tr><tr><td>警政與消防統計</td><td>機動車輛及道路交通事故</td><td>A140203010</td></tr><tr><td>警政與消防統計</td><td>火災次數-按起火原因分</td><td>A140302010</td></tr><tr><td>社會保險及福利統計</td><td>社會保險</td><td>A150101010</td></tr><tr><td>社會保險及福利統計</td><td>低收入戶數與人數</td><td>A150103010</td></tr><tr><td>社會保險及福利統計</td><td>低收入戶生活扶助</td><td>A150104010</td></tr><tr><td>社會保險及福利統計</td><td>災害及急難救助</td><td>A150105010</td></tr><tr><td>社會保險及福利統計</td><td>醫療及看護補助</td><td>A150106010</td></tr><tr><td>社會保險及福利統計</td><td>中低收入老人生活津貼</td><td>A150107010</td></tr><tr><td>社會保險及福利\n統計</td><td>身心障礙人數</td><td>A150109010</td></tr><tr><td>社會保險及福利\n統計</td><td>身心障礙人數(新制ICF八大分類)</td><td>A150109011</td></tr><tr><td>社會保險及福利\n統計</td><td>身心障礙福利機構</td><td>A150110010</td></tr><tr><td>社會保險及福利\n統計</td><td>老人長期照顧、安養機構概況</td><td>A150112010</td></tr><tr><td>社會保險及福利\n統計</td><td>托嬰中心所數及收托人數</td><td>A150120010</td></tr><tr><td>教育統計</td><td>各級學校校數、班級數、學生、畢業生及\n教師人數</td><td>A160101010</td></tr><tr><td>教育統計</td><td>各級教育學齡人口在學率(舊制)</td><td>A160102010</td></tr><tr><td>教育統計</td><td>中等以下教育學齡人口總淨在學率</td><td>A160102011</td></tr><tr><td>教育統計</td><td>高等教育淨在學率</td><td>A160102012</td></tr><tr><td>教育統計</td><td>各級教育學齡人口粗在學率</td><td>A160102013</td></tr><tr><td>教育統計</td><td>各級學校畢業生升學率</td><td>A160103010</td></tr><tr><td>教育統計</td><td>各級學校生師比</td><td>A160105010</td></tr><tr><td>教育統計</td><td>教育經費統計</td><td>A160107010</td></tr><tr><td>教育統計</td><td>學生視力不良率</td><td>A160109010</td></tr><tr><td>教育統計</td><td>大專校院境外學生在臺留學及研習人數</td><td>A160110010</td></tr><tr><td>衛生統計</td><td>主要死亡原因</td><td>A170101020</td></tr><tr><td>衛生統計</td><td>主要癌症死亡原因</td><td>A170102020</td></tr><tr><td>衛生統計</td><td>新生兒、嬰兒及孕產婦死亡率</td><td>A170103010</td></tr><tr><td>衛生統計</td><td>事故傷害死亡概況</td><td>A170104010</td></tr><tr><td>衛生統計</td><td>自殺及自傷死亡概況按性別分</td><td>A170105010</td></tr><tr><td>衛生統計</td><td>自殺及自傷死亡概況按五歲年齡組分</td><td>A170105020</td></tr><tr><td>衛生統計</td><td>醫療院所病床數及每萬人口病床數</td><td>A170201010</td></tr><tr><td>衛生統計</td><td>醫療院所家數</td><td>A170202010</td></tr><tr><td>衛生統計</td><td>醫療與其他醫事機構執業醫事人員數及每\n萬人口執業醫事人員數</td><td>A170203010</td></tr><tr><td>衛生統計</td><td>食品中毒事件</td><td>A170302010</td></tr><tr><td>衛生統計</td><td>國民醫療保健支出統計</td><td>A170501010</td></tr><tr><td>衛生統計</td><td>全民健康保險保險對象人數</td><td>A171101010</td></tr><tr><td>環保統計</td><td>空氣品質指標分布</td><td>A180101010</td></tr><tr><td>環保統計</td><td>空氣污染指標分布</td><td>A180101011</td></tr><tr><td>環保統計</td><td>環保稽查概況(刪除)</td><td>A180101020</td></tr><tr><td>環保統計</td><td>自來水水質檢驗</td><td>A180101030</td></tr><tr><td>環保統計</td><td>一般地區環境音量監測情形</td><td>A180101040</td></tr><tr><td>環保統計</td><td>垃圾清理狀況</td><td>A180101050</td></tr><tr><td>環保統計</td><td>重要河川污染現況</td><td>A180101060</td></tr><tr><td>環保統計</td><td>空氣污染物濃度</td><td>A180101070</td></tr><tr><td>環保統計</td><td>道路交通音量監測情形</td><td>A180101080</td></tr><tr><td>農業統計</td><td>農業生產總值</td><td>A190101010</td></tr><tr><td>農業統計</td><td>糧食供需</td><td>A190103010</td></tr><tr><td>社會保障支出統計</td><td>社會保障支出</td><td>A200101010</td></tr><tr><td>社會保障支出統計</td><td>社會給付功能別</td><td>A200102010</td></tr><tr><td>社會保障支出統計</td><td>社會保障支出—按計畫別(103年以前)</td><td>A200103010</td></tr><tr><td>社會保障支出統計</td><td>社會保障支出—按計畫別(104年以後)</td><td>A200103020</td></tr><tr><td>社會保障支出統計</td><td>社會給付—按功能別及計畫別(103年以前)</td><td>A200104010</td></tr><tr><td>社會保障支出統計</td><td>社會給付—按功能別及計畫別(104年以後)</td><td>A200104020</td></tr></table>",
+                                            "image_path": "77bda7990a5e23e65d8876aaa4f21df8240419dc0eeb0bb3e5b9cf4b1c8217f8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        768,
+                        301,
+                        778
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                768,
+                                301,
+                                778
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        768,
+                                        301,
+                                        778
+                                    ],
+                                    "type": "text",
+                                    "content": "9"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        505,
+                        764
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                70,
+                                505,
+                                764
+                            ],
+                            "lines": [],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body",
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        291,
+                        768,
+                        303,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                291,
+                                768,
+                                303,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        768,
+                                        303,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "10"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        505,
+                        764
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                70,
+                                505,
+                                764
+                            ],
+                            "lines": [],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body",
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        292,
+                        768,
+                        302,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                292,
+                                768,
+                                302,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        768,
+                                        302,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "11"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 10
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        505,
+                        761
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                70,
+                                505,
+                                761
+                            ],
+                            "lines": [],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body",
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        291,
+                        768,
+                        303,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                291,
+                                768,
+                                303,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        768,
+                                        303,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "12"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 11
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        505,
+                        761
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                70,
+                                505,
+                                761
+                            ],
+                            "lines": [],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body",
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        291,
+                        768,
+                        303,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                291,
+                                768,
+                                303,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        768,
+                                        303,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 12
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        505,
+                        762
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                70,
+                                505,
+                                762
+                            ],
+                            "lines": [],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body",
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        291,
+                        768,
+                        303,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                291,
+                                768,
+                                303,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        768,
+                                        303,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "14"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 13
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        70,
+                        505,
+                        761
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                70,
+                                505,
+                                761
+                            ],
+                            "lines": [],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body",
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        291,
+                        768,
+                        303,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                291,
+                                768,
+                                303,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        768,
+                                        303,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "15"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 14
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        88,
+                        69,
+                        506,
+                        330
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                69,
+                                506,
+                                330
+                            ],
+                            "lines": [],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body",
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        291,
+                        767,
+                        303,
+                        777
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                291,
+                                767,
+                                303,
+                                777
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        767,
+                                        303,
+                                        777
+                                    ],
+                                    "type": "text",
+                                    "content": "16"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 15
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.7.6"
+}
