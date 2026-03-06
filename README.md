@@ -1,4 +1,4 @@
-# Taiwan Water Skills
+# Water Skills
 
 台灣水利與工程相關 Claude Skills 集合
 
